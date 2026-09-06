@@ -1,0 +1,5 @@
+﻿  Grid.cpp
+  main.cpp
+D:\kiu\puzzlebobble\puzzlebobble\puzzlebobble\main.cpp(948,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\kiu\puzzlebobble\puzzlebobble\puzzlebobble\main.cpp(948,9): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  puzzlebobble.vcxproj -> D:\kiu\puzzlebobble\puzzlebobble\x64\Debug\puzzlebobble.exe
